@@ -89,6 +89,6 @@ print("\nTF-IDF with scikit-learn - Cosine Similarity between Article 1 and Arti
 
 TF-IDF, a numerical statistic reflecting word importance, is calculated using scikit-learn. Cosine similarity is then computed between two news articles based on their TF-IDF representations.
 
-This script provides a hands-on exploration of various NLP techniques, from basic text processing to advanced word embeddings and document similarity calculations. Feel free to use and modify it for your NLP projects! 🚀 #NLP #Python #DataScience #MachineLearning
+ 🚀 #NLP #Python #DataScience #MachineLearning
 
 ---
