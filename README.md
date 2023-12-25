@@ -1,9 +1,3 @@
-# Text-Analysis-with-SpaCy-DL
-Natural Language Processing with NLTK, SpaCy, Word2Vec, and TF-IDF
-Certainly! Below is an explanation of the code suitable for a LinkedIn post or a README file on GitHub:
-
----
-
 **Text Processing and NLP Exploration in Python**
 
 I recently worked on a Python script that showcases a variety of Natural Language Processing (NLP) techniques using popular libraries. Let me walk you through the key tasks:
